@@ -177,8 +177,6 @@ Não envie para o GitHub:
 
 * cookies do navegador
 * arquivos de autenticação
-* chaves de API
-* senhas
 * `library.json`, caso não queira compartilhá-lo
 * qualquer arquivo contendo dados pessoais
 
